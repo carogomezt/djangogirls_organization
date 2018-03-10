@@ -16,7 +16,7 @@ DjangoGirls Organization
 
 
 
-Prints necessary things to do Django Girls Workshop
+Prints minimum requirements to organize Django Girls Workshop
 
 
 * Free software: MIT license
