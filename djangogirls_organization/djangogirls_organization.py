@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 
 """Main module."""
+
+
 def dgorganization(count):
     """Prints necessary things to do Django Girls Workshop"""
     total = count + (count//4)
